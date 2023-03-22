@@ -48,6 +48,7 @@ nav a{
     font-size: 26px;
 }
 li i{
+    font-size: 18px;
     color: greenyellow;
 }
 .nav-links{
@@ -265,6 +266,7 @@ li:hover{
     font-size: 45px;
 }
 li i{
+    font-size: 18px;
     color: greenyellow;
 }
 .headerh li:hover{
@@ -319,6 +321,10 @@ li i{
     }
     .headerh nav ul li a{
         display: flex;
+    }
+    li i{
+        font-size: 18px;
+        color: greenyellow;
     }
     .headerh nav ul li a:hover{
         color: #000000;
