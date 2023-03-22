@@ -44,8 +44,11 @@ nav{
 }
 nav a{
     color: #ffffff;
-    text-decoration: none;
+    /* text-decoration: none; */
     font-size: 26px;
+}
+li i{
+    color: greenyellow;
 }
 .nav-links{
     flex: 1;
@@ -103,6 +106,9 @@ li:hover{
     nav a{
         font-size: 20px;
     }
+    li i{
+        color: greenyellow;
+    }
     .table1{
         margin: 0 2%;
         padding: 0 0 0 30%;
@@ -135,7 +141,7 @@ li:hover{
     background-position: center;
     flex-wrap: wrap;
     position: relative;
-    /* text-decoration: none; */
+    text-decoration: none;
 }
 .month{
     text-align: center;
@@ -196,6 +202,9 @@ li:hover{
         font-size: 22px;
         padding: 0 15%;
     }
+    li i{
+        color: greenyellow;
+    }
     .table{
         margin: 5%;
         width: 91.5%;
@@ -254,6 +263,9 @@ li:hover{
 }
 .headerh li{
     font-size: 45px;
+}
+li i{
+    color: greenyellow;
 }
 .headerh li:hover{
     border-radius: 30px;
