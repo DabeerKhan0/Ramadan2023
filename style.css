@@ -44,7 +44,7 @@ nav{
 }
 nav a{
     color: #ffffff;
-    /* text-decoration: none; */
+    text-decoration: none;
     font-size: 26px;
 }
 .nav-links{
@@ -135,6 +135,7 @@ li:hover{
     background-position: center;
     flex-wrap: wrap;
     position: relative;
+    /* text-decoration: none; */
 }
 .month{
     text-align: center;
