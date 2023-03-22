@@ -103,6 +103,10 @@ li:hover{
     nav a{
         font-size: 20px;
     }
+    li i{
+        color: green;
+        background-color: transparent;
+    }
     .table1{
         margin: 0 2%;
         padding: 0 0 0 30%;
@@ -205,6 +209,9 @@ li:hover{
     }
     .table td{
         font-size: 15px;
+    }li i{
+        color: green;
+        background-color: transparent;
     }
     .table tr:hover{
         background-color: transparent;
@@ -306,6 +313,9 @@ li:hover{
     }
     .headerh nav ul li a{
         display: flex;
+    }li i{
+        color: green;
+        background-color: transparent;
     }
     .headerh nav ul li a:hover{
         color: #000000;
