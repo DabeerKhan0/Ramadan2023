@@ -291,10 +291,10 @@ li:hover{
 }
 @media screen and (max-width:700px){
     .home{
-        height: 170vh;
+        height: 200vh;
     }
     .home .overlay{
-        height: 170vh;
+        height: 200vh;
     }
     .month1 h1{
         font-size: 40px;
