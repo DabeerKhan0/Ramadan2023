@@ -291,18 +291,18 @@ li:hover{
 }
 @media screen and (max-width:700px){
     .home{
-        height: 150vh;
+        height: 170vh;
     }
     .home .overlay{
-        height: 150vh;
+        height: 170vh;
     }
     .month1 h1{
-        font-size: 45px;
-        padding: 5% 0;
+        font-size: 40px;
+        padding: 4% 0;
     }
     .month1 p{
-        font-size: 22px;
-        padding: 0 15%;
+        font-size: 20px;
+        padding: 0 12%;
     }
     .headerh nav ul li a{
         display: flex;
